@@ -22,7 +22,7 @@
     <ProjectGuid>{C8E7FCFE-D16B-42DA-80F6-93FC5731FCC4}</ProjectGuid>
     <RootNamespace>Memory</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>Heap and Stack</ProjectName>
+    <ProjectName>01-HeapStack</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
