@@ -144,10 +144,10 @@ int main()
 	delete lamePtr;
 	delete floatPtr;
 	delete boolPtr;
-	delete intArrayPtr;
-	delete floatArrayPtr;
-	delete boolArrayPtr;
-	delete hundred;
-	delete byThrees;
-	delete userArray;
+	delete[] intArrayPtr;
+	delete[] floatArrayPtr;
+	delete[] boolArrayPtr;
+	delete[] hundred;
+	delete[] byThrees;
+	delete[] userArray;
 }
